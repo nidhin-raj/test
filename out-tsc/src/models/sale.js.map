@@ -1,0 +1,1 @@
+{"version":3,"file":"sale.js","sourceRoot":"","sources":["../../../src/models/sale.ts"],"names":[],"mappings":"","sourcesContent":["export interface Sale {\n  amountSold: number;\n  createdAt?: string;\n  id?: string;\n  productId: string;\n}\n"]}
